@@ -32,7 +32,7 @@ https://storage.googleapis.com/ecokg/node-embeddings.tar.gz
 ## Notebooks
 
 There are currently two notebooks:
-- **embiggen_ecokg:** an attempt to run ecokg locally, abandoned in favor of the Colab version
+- **embiggen_ecokg:** an attempt to run embiggen locally, abandoned in favor of the Colab version
 - **embiggen_ecokg_colab:** a successful attempt at creating the embeddings, run via Colab Pro.
 
 ## About Colab
